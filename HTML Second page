@@ -1,0 +1,21 @@
+<H1 style= "color: black;font-family: Courier New;"> My experience with HMTL</h1>
+
+<p style= "color:black;font-family:Courier New;"> By Naomi Carrillo
+
+<div style="color: black; font-family: Courier New;"> To begin with, I would like to add that I used <p> H3 HMTL Editor Guide 
+<ahref="https://www.w3schools.com/tags/tag_body.asp"
+target="https://www.w3schools.com/tags/tag_body.asp">Visit W3schools</a>
+
+<div style="color: black; font-family: Courier New;"> This guide has a variety of catalogs with different categories of elements, attributes, and overall codes that are helpful in learning the markup language. This resource proves invaluable in offering a rich repository to both beginners and knowledgeable developers. Exploring this extensive catalog will deepen your understanding and enhance your proficiency in the markup language."
+<blockquote>
+
+<img src="https://yt3.googleusercontent.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s176-c-k-c0x00ffffff-no-rj">
+</blockquote>
+<div style="color: black; font-family: Courier New;"> Initially, I struggled to do more besides the paragraphs; I needed to know how to "play" with my writing on here just as I would with any other app that did it for me, like the Word application. 
+- So, I scribbled my random thoughts with the essential elements from the catalog into an app called "Markdown Editor" on Mac. I would leave what I had on this app while watching to the side how my "website" was getting developed, adding every essential element to see the difference and going back and forth to "play" around with it to see what changes and how it changes. 
+
+ <p><div style="color: black; font-family: Courier New;"> As I got the basics of elements down, I also played around with the attributes. These add additional information to an HTML element and always have an opening tag for the element. From what I'm aware, they start with a name and a value and are finally separated by an equal sign and enclosed once again by double or single quotes. This all helps to modify or provide any details about the elements. 
+
+<p> <div style="color: black; font-family: Courier New;"> Sometimes, I would add one attribute with one element, and it did not help in getting the outcome that I looked for. For example, I was adding a paragraph, plus letter color, plus a different font style, and having to separate it without it all looking so mushed together. This was the complicated part because sometimes, adding it together as how I thought in mind was not correct. So, I'd have to return to the guide and correct it. However, it is very easy to type over something accidentally or miss typing something that should have been between the attribute and element, such as an equal sign, a quote, etc.  
+
+<p> Overall, it was a great first experience to learn new stuff and overcome challenges that were first-time experiences. 

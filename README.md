@@ -58,4 +58,4 @@ target="https://www.w3schools.com/tags/tag_body.asp">Visit W3schools</a>
 
 <p> <div style="color: black; font-family: Courier New;"> Sometimes, I would add one attribute with one element, and it did not help in getting the outcome that I looked for. For example, I was adding a paragraph, plus letter color, plus a different font style, and having to separate it without it all looking so mushed together. This was the complicated part because sometimes, adding it together as how I thought in mind was not correct. So, I'd have to return to the guide and correct it. However, it is very easy to type over something accidentally or miss typing something that should have been between the attribute and element, such as an equal sign, a quote, etc. 
 
-[file:///Users/naomicarrillo/Downloads/mid-term-html-report.html]
+[HTML Evalutation](file:///Users/naomicarrillo/Downloads/mid-term-html-report.html)
